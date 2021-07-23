@@ -1,0 +1,24 @@
+# bash temp files
+src/bash/run/tmp/
+
+# python
+**/.pytest_cache/
+*.pyc
+**/.venv/
+
+# vim tmp files
+**/*.swp
+**/*.swo
+# vim confs
+.vimrc
+.vim/
+
+
+# misc
+**/.DS_Store
+node_modules
+dat/log
+
+# vscode
+.vscode/
+

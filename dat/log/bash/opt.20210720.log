@@ -1,0 +1,261 @@
+ [INFO] 2021-07-20 19:21:41 UTC [opt][@dev-api] [63999] START ::: running action :: do_morph_dir 
+ [INFO] 2021-07-20 19:21:41 UTC [opt][@dev-api] [63999] dir_to_morph: /hos/opt/min-min-web-front 
+ [INFO] 2021-07-20 19:21:41 UTC [opt][@dev-api] [63999] to_srch:"min-web-front" 
+ [INFO] 2021-07-20 19:21:41 UTC [opt][@dev-api] [63999] to_repl:"min-min-web-front" 
+ [INFO] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] START :: search and replace in non-binary files 
+ [DEBUG] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/Makefile 
+ [DEBUG] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/dat/log/bash/opt.20210721.log 
+ [DEBUG] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/dat/log/bash/opt.20210722.log 
+ [DEBUG] 2021-07-20 19:21:43 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/.editorconfig 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/bash/demo/demo-dev.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/README.md 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/cnf/readme.txt 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/lib/bash/funcs/ubuntu-sync-time.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/lib/bash/funcs/perform-brew-install.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/lib/bash/funcs/parse-ini-section-vars.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/lib/bash/funcs/perform-apt-get-install.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/lib/bash/funcs/flush-screen.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/lib/bash/funcs/export-json-section-vars.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/run 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/docker/devops/Dockerfile 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/min-jinja/.pylintrc 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/min-jinja/tpl_gen.py 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/min-jinja/pyproject.toml 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/min-jinja/poetry.toml 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/min-jinja/poetry.lock 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/api-caller/pyproject.toml 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/api-caller/api_caller.py 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/python/api-caller/poetry.toml 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/tpl/bash/demo/demo-%env%.sh.tpl 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/npm-modules.lst 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/get-packages-from-file.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/ubuntu-check-install-awscli.requirements.txt 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/ubuntu-check-install-nodejs.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/run-hello-world.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/ubuntu-check-install-global-npm-modules.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/ubuntu-check-install-awscli.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/check-install-poetry.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/print-usage.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/run.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/morph-dir.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/docker-init.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/check-install-py-modules.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/get-list-file-from-action.func.sh 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] working on file: /hos/opt/min-min-web-front/src/bash/run/ubuntu-check-install-awscli.lst 
+ [DEBUG] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] searching for min-web-front , replacing with :: min-min-web-front 
+ [INFO] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] STOP :: search and replace in non-binary files 
+ [INFO] 2021-07-20 19:21:44 UTC [opt][@dev-api] [63999] search and replace in dir and file paths dir_to_morph:/hos/opt/min-min-web-front 
+ [INFO] 2021-07-20 19:22:38 UTC [opt][@dev-api] [65771] START ::: running action :: do_morph_dir 
+ [INFO] 2021-07-20 19:22:38 UTC [opt][@dev-api] [65771] dir_to_morph: /hos/opt/foo-bar 
+ [INFO] 2021-07-20 19:22:38 UTC [opt][@dev-api] [65771] to_srch:"min-web-front" 
+ [INFO] 2021-07-20 19:22:38 UTC [opt][@dev-api] [65771] to_repl:"foo-bar" 
+ [INFO] 2021-07-20 19:22:40 UTC [opt][@dev-api] [65771] START :: search and replace in non-binary files 
+ [DEBUG] 2021-07-20 19:22:40 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/Makefile 
+ [DEBUG] 2021-07-20 19:22:40 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:40 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/dat/log/bash/opt.20210720.log 
+ [DEBUG] 2021-07-20 19:22:40 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:40 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/dat/log/bash/opt.20210721.log 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/dat/log/bash/opt.20210722.log 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/.editorconfig 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/bash/demo/demo-dev.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/README.md 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/cnf/readme.txt 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/ubuntu-sync-time.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/perform-brew-install.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/parse-ini-section-vars.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/perform-apt-get-install.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/flush-screen.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/export-json-section-vars.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/run 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/docker/devops/Dockerfile 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/.pylintrc 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/tpl_gen.py 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/pyproject.toml 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/poetry.toml 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/poetry.lock 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/api-caller/pyproject.toml 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/api-caller/api_caller.py 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/api-caller/poetry.toml 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/tpl/bash/demo/demo-%env%.sh.tpl 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/npm-modules.lst 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/get-packages-from-file.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-awscli.requirements.txt 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-nodejs.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/run-hello-world.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-global-npm-modules.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-awscli.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/check-install-poetry.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/print-usage.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/run.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/morph-dir.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/docker-init.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/check-install-py-modules.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/get-list-file-from-action.func.sh 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-awscli.lst 
+ [DEBUG] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [INFO] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] STOP :: search and replace in non-binary files 
+ [INFO] 2021-07-20 19:22:41 UTC [opt][@dev-api] [65771] search and replace in dir and file paths dir_to_morph:/hos/opt/foo-bar 
+ [INFO] 2021-07-20 19:22:42 UTC [opt][@dev-api] [65771] STOP ::: running function :: do_morph_dir 
+ [INFO] 2021-07-20 19:22:42 UTC [opt][@dev-api] [65771] START ::: running action :: do_morph_dir 
+ [INFO] 2021-07-20 19:22:42 UTC [opt][@dev-api] [65771] dir_to_morph: /hos/opt/foo-bar 
+ [INFO] 2021-07-20 19:22:42 UTC [opt][@dev-api] [65771] to_srch:"min-web-front" 
+ [INFO] 2021-07-20 19:22:42 UTC [opt][@dev-api] [65771] to_repl:"foo-bar" 
+ [INFO] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] START :: search and replace in non-binary files 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/Makefile 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/dat/log/bash/opt.20210720.log 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/dat/log/bash/opt.20210721.log 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/dat/log/bash/opt.20210722.log 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/.editorconfig 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/bash/demo/demo-dev.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/README.md 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/cnf/readme.txt 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/ubuntu-sync-time.func.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/perform-brew-install.func.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/parse-ini-section-vars.func.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/perform-apt-get-install.func.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/flush-screen.func.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/lib/bash/funcs/export-json-section-vars.func.sh 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/run 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/docker/devops/Dockerfile 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/.pylintrc 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/tpl_gen.py 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/pyproject.toml 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/poetry.toml 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/min-jinja/poetry.lock 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/api-caller/pyproject.toml 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/api-caller/api_caller.py 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/python/api-caller/poetry.toml 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/tpl/bash/demo/demo-%env%.sh.tpl 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/npm-modules.lst 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:44 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/get-packages-from-file.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-awscli.requirements.txt 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-nodejs.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/run-hello-world.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-global-npm-modules.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-awscli.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/check-install-poetry.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/print-usage.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/run.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/morph-dir.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/docker-init.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/check-install-py-modules.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/get-list-file-from-action.func.sh 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] working on file: /hos/opt/foo-bar/src/bash/run/ubuntu-check-install-awscli.lst 
+ [DEBUG] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] searching for min-web-front , replacing with :: foo-bar 
+ [INFO] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] STOP :: search and replace in non-binary files 
+ [INFO] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] search and replace in dir and file paths dir_to_morph:/hos/opt/foo-bar 
+ [INFO] 2021-07-20 19:22:45 UTC [opt][@dev-api] [65771] STOP ::: running function :: do_morph_dir 

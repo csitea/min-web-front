@@ -1,0 +1,15 @@
+ [INFO] 2021-07-21 17:28:07 UTC [opt][@6109521efc7a] [49] START ::: running action :: do_ubuntu_check_install_awscli 
+ [INFO] 2021-07-21 17:29:59 UTC [opt][@6109521efc7a] [254] START ::: running action :: do_ubuntu_check_install_awscli 
+ [INFO] 2021-07-21 17:31:17 UTC [opt][@6109521efc7a] [491] START ::: running action :: do_ubuntu_check_install_awscli 
+ [INFO] 2021-07-21 17:32:17 UTC [opt][@6109521efc7a] [491] STOP ::: running function :: do_ubuntu_check_install_awscli 
+ [INFO] 2021-07-21 17:32:17 UTC [opt][@6109521efc7a] [491] START ::: running action :: do_ubuntu_check_install_awscli 
+ [INFO] 2021-07-21 17:32:24 UTC [opt][@6109521efc7a] [491] STOP ::: running function :: do_ubuntu_check_install_awscli 
+ [INFO] 2021-07-21 18:11:10 UTC [opt][@c0a887452bc5] [60] START ::: running action :: do_print_usage 
+ [INFO] 2021-07-21 18:11:15 UTC [opt][@c0a887452bc5] [252] START ::: running action :: do_ubuntu_check_install_global_npm_modules 
+ [INFO] 2021-07-21 18:13:15 UTC [opt][@c0a887452bc5] [589] START ::: running action :: do_ubuntu_check_install_global_npm_modules 
+ [INFO] 2021-07-21 18:15:01 UTC [opt][@c0a887452bc5] [926] START ::: running action :: do_ubuntu_check_install_global_npm_modules 
+ [INFO] 2021-07-21 19:07:12 UTC [opt][@9700f395941f] [21] START ::: running action :: do_print_usage 
+ [INFO] 2021-07-21 19:07:40 UTC [opt][@9700f395941f] [245] START ::: running action :: do_check_install_py_modules 
+ [INFO] 2021-07-21 19:07:41 UTC [opt][@9700f395941f] [245] STOP ::: running function :: do_check_install_py_modules 
+ [INFO] 2021-07-21 19:07:41 UTC [opt][@9700f395941f] [245] START ::: running action :: do_check_install_py_modules 
+ [INFO] 2021-07-21 19:07:41 UTC [opt][@9700f395941f] [245] STOP ::: running function :: do_check_install_py_modules 
